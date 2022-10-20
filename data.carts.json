@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "products": [
+      { "id": 1,
+      "title": "Escuadra",
+      "thumbnail": "Escuadra que sirve para escuadrar escuadras dentro de una zona escuadrada",
+      "price": 323.45,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Squadra_45.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Calculadora",
+        "thumbnail": "Te calcula hasta la probabilidad de que tu crush te hable en las proximas 24 horas",
+        "price": 234.56,
+        "image": "https://micalculadoracientifica.com/wp-content/uploads/2021/01/TI-Nspire-CX-Amazon.jpg"
+    }
+   ]
+  }
+]
